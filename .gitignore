@@ -1,0 +1,7 @@
+env1/
+scripts/
+*.csv
+*.xls
+*.xlsx
+backend/db.sqlite3
+old_db/
